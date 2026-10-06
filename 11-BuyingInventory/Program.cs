@@ -33,7 +33,7 @@ switch(choice)
     Console.WriteLine("Food Supplies cost 1 gold.");
     break;
     default:
-    Console.WriteLine("\"Please enter a number from the menu only\"");
+    Console.WriteLine(@"""Please enter a number from the menu only""");
     break;
 
 }
