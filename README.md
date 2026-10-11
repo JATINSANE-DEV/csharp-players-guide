@@ -10,7 +10,9 @@ This repo has my solutions to the book's challenges.
 - [x] Level 8: Console 2.0
 - [x] Level 9: Decision Making
 - [x] Level 10: Switches
-- [ ] Level 11: Looping
+- [x] Level 11: Looping
+- [x] Level 12: Arrays
+
 
 ## How to run
 Open terminal in any project folder and run:
